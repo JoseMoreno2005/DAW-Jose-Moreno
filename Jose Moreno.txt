@@ -1,0 +1,19 @@
+Para programación he elegido un .java porque es lo que estamos haciendo y con el 
+tipo de archivo que jugamos
+
+-------------------------------------------------------------------------------------
+
+Base de datos he elegido un PNG porque hasta ahora todos los ejercicios E/R los 
+hemos hecho en draw.io uy poniendo capturas png
+
+----------------------------------------------------------------------------------------------
+
+Entornos he elegido un txt porque si no tiene ninguna razon en concreto
+
+--------------------------------------------------------------------------------------
+
+Para Lenguaje he escogido un html porque de eso va la asignatura
+
+------------------------------------------------------------------------------------
+
+Y por ultimo para sistemas he elegido un pdf porque solo hemos visto temario en PDF
